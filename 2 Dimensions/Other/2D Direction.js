@@ -1,1 +1,1 @@
-new Vector2(-sin((angle * PI / 180) - PI), -cos((angle * PI / 180) - PI))
+new Vector2(sin(angle * PI / 180), cos(angle * PI / 180))

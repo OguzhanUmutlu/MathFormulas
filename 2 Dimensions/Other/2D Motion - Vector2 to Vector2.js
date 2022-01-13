@@ -1,1 +1,1 @@
-new Vector2(-sin(atan2(x1 - x2, y1 - y2) - PI), -cos(atan2(x1 - x2, y1 - y2) - PI))
+new Vector2(sin(atan2(x1 - x2, y1 - y2)), cos(atan2(x1 - x2, y1 - y2)))
