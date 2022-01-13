@@ -1,0 +1,1 @@
+sqrt(pow(circle_1.x + circle_1.width - circle_2.x - circle_2.width, 2) + pow(circle_1.y + circle_1.height - circle_2.y - circle_2.height, 2)) < circle_1.radius + circle_2.radius
